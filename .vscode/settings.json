@@ -5,5 +5,8 @@
         "xstring": "cpp",
         "cstdlib": "cpp",
         "vector": "cpp"
-    }
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
